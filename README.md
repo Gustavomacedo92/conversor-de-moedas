@@ -10,4 +10,4 @@
 <img src="https://img.shields.io/badge/JAVASCRIPT-239120?&style=for-the-badge&logo=JAVASCRIPT3&logoColor=white">
 
 <img src="https://github.com/Gustavomacedo92/conversor-de-moedas/blob/master/assets/conversor%20desktop.png?raw=true">
-<img src="https://raw.githubusercontent.com/Gustavomacedo92/Dev-sorteador/master/img/DEV%20SORTEIO.jfif">
+<img src="https://github.com/Gustavomacedo92/conversor-de-moedas/blob/master/assets/conversor%20responsivo.png?raw=true">
